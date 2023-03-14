@@ -3,3 +3,6 @@ kind: Kustomization
 
 resources:
 - ../../base
+images:
+- name: ghcr.io/mattbry/demo-app
+  newTag: 0b912b36d0c38e3923b7c2392bd9daf52f4b8214
