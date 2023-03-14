@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/mattbry/demo-app
-  newTag: latest
+  newTag: c5f8b4aea395e9e85288ebfcf52c7908e84a3df9
